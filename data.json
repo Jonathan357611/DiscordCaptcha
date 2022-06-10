@@ -1,0 +1,12 @@
+{
+    "settings": {
+        "token": "YOUR_TOKEN_HERE",
+        "max_length": 15,
+        "min_length": 1,
+        "default_length": 6,
+        "ban_after": 4,
+        "time": 3600
+    },
+    "servers": {},
+    "pending": {}
+}
