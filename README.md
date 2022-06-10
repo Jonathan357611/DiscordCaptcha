@@ -7,7 +7,9 @@ The Captchas will look something like this:
 ![image](https://user-images.githubusercontent.com/63909127/173162874-e9163a97-df4a-458b-a061-22882b3d4934.png)
 
 ## Invite
-If you dont want to host the bot yourself (Which would give you even more configurability!), you can invite it [here](https://discord.com/api/oauth2/authorize?client_id=984819036024078406&permissions=268436548&scope=bot) to your server!
+~~If you dont want to host the bot yourself (Which would give you even more configurability!), you can invite it [here](https://discord.com/api/oauth2/authorize?client_id=984819036024078406&permissions=268436548&scope=bot) to your server!~~
+
+**NOT ONLINE YET, I'LL DO MY BEST!**
 
 ## Usage
 The bot is very configurable, you can set an own Captcha length, Max tries-before-ban, Custom messages and even more when self hosting this bot, as own expiration delays or longer Captchas!
